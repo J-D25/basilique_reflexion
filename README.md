@@ -29,5 +29,7 @@ Accueil avec calendrier de visites, À propos (en savoir plus), Contact : 3 pag
 #### Contenu présent sur le site
 * Photos de la basilique.
 * Actualités récentes.
+* Histoire de la basilique (page à propos/en savoir plus).
 
 ### #A.3 : Planche de tendance
+* [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux)
