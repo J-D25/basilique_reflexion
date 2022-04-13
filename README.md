@@ -14,13 +14,12 @@ Monument historique du XIXème siècle, de style romano-byzantin.
 Touristes, bisontins...
 
 #### État des lieux de l'existant
-RàS. Page TripAdvisor.
+RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8608766-Reviews-Basilique_Saint_Ferjeux-Besancon_Doubs_Bourgogne_Franche_Comte.html).
 
 #### Arborescence du site
 Accueil avec calendrier de visites, À propos (en savoir plus), Contact : 3 pages distinctes.
 
 #### Description fonctionnelle
-
 * Formulaire d'inscription à une newsletter.
 * Calendrier de visites.
 * Formulaire de contact.
@@ -33,3 +32,5 @@ Accueil avec calendrier de visites, À propos (en savoir plus), Contact : 3 pag
 
 ### #A.3 : Planche de tendance
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux)
+
+* Accueil de [Notre-Dame de Fourvière](https://www.fourviere.org/fr/).
