@@ -3,21 +3,31 @@ Réflexion autour d'un projet de réalisation d'un site web pour la basilique Sa
 
 ## Itération #1
 ### #A.1 : Analyse
-* Identité visuelle existante ? Aucune. Tons clairs, nuances de gris.
-* Stratégie digitale : TripAdvisor, pas de site web, pas de RS…
+* Identité visuelle existante ? Aucune. Cathédrale en pierre, tons clairs, nuances de gris.
+* Stratégie digitale : page TripAdvisor, pas de site web, pas de RS…
 
 ### #A.2 : Cahier des charges
 #### Présentation
-Monument historique du XIXème siècle, de style romano-byzantin.
+Monument historique du XIXème siècle, de style romano-byzantin, la basilique Saint-Fergeux ne dispose pas de site Internet à ce jour.
 
 #### Cible à laquelle s'adresse le site
-Touristes, bisontins...
+Touristes qui souhaitent visiter Besançon et ses monuments, bisontins.
 
 #### État des lieux de l'existant
 RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8608766-Reviews-Basilique_Saint_Ferjeux-Besancon_Doubs_Bourgogne_Franche_Comte.html).
 
 #### Arborescence du site
-Accueil avec calendrier de visites, À propos (en savoir plus), Contact : 3 pages distinctes.
+3 pages distinctes :
+* Accueil
+  * Diapo images défilantes
+  * Accroche + bouton "En savoir plus"
+  * bouton À propos
+  * Calendrier de visites
+  * Newsletter
+* En savoir plus/À propos
+  * Historique du lieu
+* Contact
+  * Formulaire de contact
 
 #### Description fonctionnelle
 * Formulaire d'inscription à une newsletter.
@@ -34,3 +44,4 @@ Accueil avec calendrier de visites, À propos (en savoir plus), Contact : 3 pag
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux)
 
 * Accueil de [Notre-Dame de Fourvière](https://www.fourviere.org/fr/).
+* https://fraternites-jerusalem.org/
