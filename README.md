@@ -38,7 +38,7 @@ Réaliser la conception d’un site web, d’une interface d’administration et
   * Description fonctionnelle : exemple abonnement à une newsletter, barre de recherche, intégrer un blog, formulaire de contact, carte google…
   * Contenu présent sur le site
 #### Itération #A.3 : Planche de tendance
-* À partir de sites concurrents (benchmark) ou de site d’inspiration, ajouter les éléments sur votre planche de tendance. Ses éléments peuvent être des captures d’écrans, des palettes de couleurs, des photographies d’ambiances, des échantillons de matières, des croquis et éventuellement du texte.
+* À partir de sites concurrents (benchmark) ou de site d’inspiration, ajouter les éléments sur votre planche de tendance. Ces éléments peuvent être des captures d’écrans, des palettes de couleurs, des photographies d’ambiances, des échantillons de matières, des croquis et éventuellement du texte.
 
 #### Itération #A.4 Design System
 * Choisir une convention de nommage, un vocabulaire facile à comprendre pour toutes les personnes impliquées où qui le seront à l’avenir.
