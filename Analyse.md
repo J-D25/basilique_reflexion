@@ -20,7 +20,7 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 3 pages distinctes :
 * Accueil
   * Diapo images défilantes
-  * Accroche + bouton "En savoir plus"
+  * Accroche
   * bouton À propos
   * Calendrier de visites
   * Newsletter
@@ -46,4 +46,14 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 * Accueil de [Notre-Dame de Fourvière](https://www.fourviere.org/fr/).
 * https://fraternites-jerusalem.org/
 
-### #A.4 Design System
+### #A.4 : Design System
+* [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=58%3A24)
+
+### #A.5 : Maquetter le Header
+* [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=87%3A30)
+
+### #A.6 : Zoning contenu principal
+* [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=111%3A29)
+
+### #A.7 : Maquetter le contenu principal
+* [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=127%3A109)
