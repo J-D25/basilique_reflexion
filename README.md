@@ -40,34 +40,34 @@ Réaliser la conception d’un site web, d’une interface d’administration et
 #### Itération #A.3 : Planche de tendance
 * À partir de sites concurrents (benchmark) ou de site d’inspiration, ajouter les éléments sur votre planche de tendance. Ces éléments peuvent être des captures d’écrans, des palettes de couleurs, des photographies d’ambiances, des échantillons de matières, des croquis et éventuellement du texte.
 
-#### Itération #A.4 Design System
+#### Itération #A.4 : Design System
 * Choisir une convention de nommage, un vocabulaire facile à comprendre pour toutes les personnes impliquées où qui le seront à l’avenir.
 * Définir la charte graphique comme l’exemple ci-dessous
 ![](README_images/design_system.png)
 
-#### Itération #A.5 Maquetter le Header
+#### Itération #A.5 : Maquetter le Header
 * Créer la maquette graphique du header de votre page web en choisissant parmi les 2 zoning proposés :
   * 1 composition graphique dans Photoshop
   * Présence de 2 à 3 textes
   * Intégration à minima d’un web font et de deux au maximum.
   * ![](README_images/header.png)
 
-#### Itération #A.6 Zoning contenu principal
+#### Itération #A.6 : Zoning contenu principal
 * Faites une proposition de zoning des différentes sections de votre contenu.
 * Présenter vos zoning à l’ensemble de votre promo pour validation
 
-#### Itération #A.7 Maquetter le contenu principal
+#### Itération #A.7 : Maquetter le contenu principal
 * Créer la maquette graphique du contenu de votre page web composition graphique dans Photoshop
   * Tenir compte de votre Design System
   * Maquetter en tenant compte de votre zoning
   * ![](README_images/maquette.png)
 
-#### Itération #A.8 Maquetter le pied de page
+#### Itération #A.8 : Maquetter le pied de page
 * Créer la maquette graphique du pied de page de votre page web en choisissant parmi les 2 zoning proposés :
   * 1 composition graphique dans Photoshop
   * Présence de 2 à 3 textes
   * Intégration à minima d’un web font et de deux au maximum.
   * Présence du formulaire d’inscription à la newsletter
 
-#### Itération #A.9 Responsive
+#### Itération #A.9 : Responsive
 * Décliner la maquette au format Tablette et Mobile
