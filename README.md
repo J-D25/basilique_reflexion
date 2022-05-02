@@ -60,7 +60,6 @@ Réaliser la conception d’un site web, d’une interface d’administration et
 * Créer la maquette graphique du contenu de votre page web composition graphique dans Photoshop
   * Tenir compte de votre Design System
   * Maquetter en tenant compte de votre zoning
-  * ![](README_images/maquette.png)
 
 #### Itération #A.8 : Maquetter le pied de page
 * Créer la maquette graphique du pied de page de votre page web en choisissant parmi les 2 zoning proposés :
@@ -68,6 +67,7 @@ Réaliser la conception d’un site web, d’une interface d’administration et
   * Présence de 2 à 3 textes
   * Intégration à minima d’un web font et de deux au maximum.
   * Présence du formulaire d’inscription à la newsletter
+  * ![](README_images/maquette.png)
 
 #### Itération #A.9 : Responsive
 * Décliner la maquette au format Tablette et Mobile
