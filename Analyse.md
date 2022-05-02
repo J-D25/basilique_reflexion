@@ -30,7 +30,6 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
   * Formulaire de contact
 
 #### Description fonctionnelle
-* Formulaire d'inscription à une newsletter.
 * Calendrier de visites.
 * Formulaire de contact.
 * Menu.
