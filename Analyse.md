@@ -19,12 +19,12 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 #### Arborescence du site
 3 pages distinctes :
 * Accueil
-  * Diapo images défilantes
   * Accroche
   * bouton À propos
-  * Calendrier de visites
+  * Agenda
   * Newsletter
 * En savoir plus/À propos
+  * Diapo images défilantes
   * Historique du lieu
 * Contact
   * Formulaire de contact
@@ -57,3 +57,6 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 
 ### #A.7 : Maquetter le contenu principal
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=127%3A109)
+
+### #A.8 : Maquetter le pied de page
+* [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=212%3A24)
