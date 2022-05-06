@@ -99,3 +99,14 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 
 ### #A.8 : Maquetter le pied de page
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=212%3A24)
+
+* Desktop
+  * Footer
+    * ![](Analyse_images/Footer_desktop.png)
+  * Footer:hover
+    * ![](Analyse_images/Footer_desktop_hover.png)
+* Mobile
+  * Header Page d'accueil
+    * ![](Analyse_images/Footer_phone.png)
+  * Header autres pages
+    * ![](Analyse_images/Footer_phone_hover.png)
