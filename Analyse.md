@@ -81,6 +81,20 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=111%3A29)
 
 ### #A.7 : Maquetter le contenu principal
+* Desktop
+  * Page d'accueil
+    * ![](Analyse_images/Page_principale_desktop_v2Maquette.png)
+  * Page En savoir plus
+    * ![](Analyse_images/Page_À_propos_desktop_v2Maquette.png)
+  * Page Contact
+    * ![](Analyse_images/Page_ContactMaquette.png)
+* Mobile
+  * Page d'accueil
+    * ![](Analyse_images/Page_principale_phone_v2Maquette.png)
+  * Page En savoir plus
+    * ![](Analyse_images/Page_À_propos_phone_v2Maquette.png)
+  * Page Contact
+    * ![](Analyse_images/Page_Contact_phoneMaquette.png)
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=127%3A109)
 
 ### #A.8 : Maquetter le pied de page
