@@ -47,6 +47,7 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 * [Basilique Saint-Pierre-et-Saint-Paul de Luxeuil-les-Bains](https://www.ecclesia-luxeuil.fr/decouvrir/basilique-et-son-cloitre/).
 
 ### #A.4 : Design System
+* ![](Analyse_images/Charte_graphique.png)
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=58%3A24)
 
 ### #A.5 : Maquetter le Header
