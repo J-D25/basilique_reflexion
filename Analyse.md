@@ -64,6 +64,20 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=87%3A30)
 
 ### #A.6 : Zoning contenu principal
+* Desktop
+  * Page d'accueil
+    * ![](Analyse_images/Page_principale_desktop.png)
+  * Page En savoir plus
+    * ![](Analyse_images/Page_À_propos_desktop.png)
+  * Page Contact
+    * ![](Analyse_images/Page_Contact_desktop.png)
+* Mobile
+  * Page d'accueil
+    * ![](Analyse_images/Page_principale_phone.png)
+  * Page En savoir plus
+    * ![](Analyse_images/Page_À_propos_phone.png)
+  * Page Contact
+    * ![](Analyse_images/Page_Contact_phone.png)
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=111%3A29)
 
 ### #A.7 : Maquetter le contenu principal
