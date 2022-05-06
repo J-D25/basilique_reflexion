@@ -38,6 +38,7 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 * Histoire de la basilique (page à propos/en savoir plus).
 
 ### #A.3 : Planche de tendance
+* ![](Analyse_images/Moodboard.png)
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux)
 
 * Accueil de [Notre-Dame de Fourvière](https://www.fourviere.org/fr/).
