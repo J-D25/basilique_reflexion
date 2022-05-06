@@ -58,9 +58,9 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
     * ![](Analyse_images/Header_v2_petit.png)
 * Mobile
   * Header Page d'accueil
-    * ![](Analyse_images/Header_v2.png)
+    * ![](Analyse_images/Header_mobile_v2.png)
   * Header autres pages
-    * ![](Analyse_images/Header_v2_petit.png)
+    * ![](Analyse_images/Header_mobile_v2_petit.png)
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=87%3A30)
 
 ### #A.6 : Zoning contenu principal
