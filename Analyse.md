@@ -22,7 +22,6 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
   * Accroche
   * bouton À propos
   * Agenda
-  * Newsletter
 * En savoir plus/À propos
   * Diapo images défilantes
   * Historique du lieu
@@ -30,7 +29,6 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
   * Formulaire de contact
 
 #### Description fonctionnelle
-* Calendrier de visites.
 * Formulaire de contact.
 * Menu.
 
@@ -44,6 +42,8 @@ RàS. [Page TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187143-d8
 
 * Accueil de [Notre-Dame de Fourvière](https://www.fourviere.org/fr/).
 * https://fraternites-jerusalem.org/
+* [Basilique Notre-Dame de la Garde](https://www.marseille-tourisme.com/decouvrez-marseille/culture-et-patrimoine/sites-et-monuments/la-basilique-notre-dame-de-la-garde/).
+* [Basilique Saint-Pierre-et-Saint-Paul de Luxeuil-les-Bains](https://www.ecclesia-luxeuil.fr/decouvrir/basilique-et-son-cloitre/).
 
 ### #A.4 : Design System
 * [Lien vers projet Figma](https://www.figma.com/file/xP2a6tBXY3XdHG6TwofANX/Basilique-Saint-Ferjeux?node-id=58%3A24)
