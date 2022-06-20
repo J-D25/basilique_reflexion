@@ -90,6 +90,3 @@ Réaliser la conception d'un site web, d'une interface d'administration et d'une
 
 #### Itération #A.11 : Responsive du backoffice
 * Réaliser le responsive du backend
-
-#### Itération #A.12 : Conception de la newsletter
-* Réaliser la maquette du Template de la newsletter.
